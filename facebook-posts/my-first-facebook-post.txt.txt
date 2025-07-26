@@ -1,2 +1,1 @@
-Hello Facebook! This is my first automated post with an image. #AutomationIsCool
-Hello Friends1 This is a test-run from our automation repos. Cheers!
+Hello Friends! This is a test-run from our automation repos. Cheers! #AutomationIsCool #automationtestrun
